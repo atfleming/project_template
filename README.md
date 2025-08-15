@@ -1,6 +1,7 @@
 # project_template
 A template for rules-based coding project creation.
 
+### Rules Generator: https://www.npmjs.com/package/agent-rules-generator
 ## Coding Workflow
 - Start with **detailed specs** before generating AI code.
 - Keep AI requests **small and precise** to avoid unnecessary changes.
