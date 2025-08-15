@@ -1,4 +1,4 @@
-# Global AI Coding Rules for Windsurf
+# Global AI Coding Rules
 
 These rules establish universal standards and preferences that apply across all projects developed with Windsurf AI assistance.
 
