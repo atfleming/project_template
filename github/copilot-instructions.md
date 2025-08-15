@@ -1,4 +1,5 @@
 # Global AI Coding Rules for Windsurf
+https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features
 
 These rules establish universal standards and preferences that apply across all projects developed with Windsurf AI assistance.
 
